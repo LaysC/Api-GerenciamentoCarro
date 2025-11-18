@@ -1,0 +1,12 @@
+{
+  "modelo": "Mustang GT",
+  "nomeCompletoVersao": "Mustang GT 5.0 V8",
+  "tipo": "CONVERSIVEL",
+  "dataDeFabricacao": "2023-01-01",
+  "paisDeMontagem": "Estados Unidos",
+  "fichaTecnica": {
+    "detalhesDoMotor": "Motor V8 Coyote 5.0L",
+    "tipoDeCombustivel": "Gasolina",
+    "opcionaisDeFabrica": "Bancos de couro, Teto solar"
+  }
+}
